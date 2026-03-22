@@ -52,7 +52,7 @@ body{
 }
 
 .hero{
-    background-image: url("/IMG/galaxia.jpg");
+    background-image: url("../IMG/galaxia.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
@@ -174,7 +174,7 @@ footer{
 .registro-page {
   position: relative;
   min-height: 100vh;
-  background: url("/IMG/estrellas.jpg") no-repeat center center fixed;
+  background: url("../IMG/estrellas.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
